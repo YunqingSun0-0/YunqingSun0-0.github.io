@@ -8,14 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Computer Science department,[Northwestern University](https://www.northwestern.edu) advised by Prof. [Xiao Wang](https://wangxiao1254.github.io).
+I am a first year Ph.D. student in Computer Science department,[Northwestern University](https://www.northwestern.edu) advised by Prof. [Xiao Wang](https://wangxiao1254.github.io). I mainly focus on the secure multi-party computation.
 
 
-I got my Bachelor degree in Xidian University in 2018.
+I got my Bachelor degree and Master degree in Xidian University in 2018 and 2021. During my master studies, I was advised by Prof. Jin Cao for 5G authentication mechanisms.
 
-I got my Master degree in Xidian University in 2021, advised by Prof. Jin Cao.
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
