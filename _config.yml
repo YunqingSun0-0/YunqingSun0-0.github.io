@@ -14,7 +14,7 @@ description              : &description "Ph.D. student at Northwestern Universit
 url                      : https://YunqingSun0-0.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YunqingSun0-0/YunqingSun0-0.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "3953273590_704e3899d5_m.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
