@@ -5,7 +5,6 @@ collection: files
 permalink: /files/CV-yqsun.pdf
 author_profile: true
 paperurl: 'http://YunqingSun0-0.github.io/files/CV-yqsun.pdf'
-[CV](https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/tree/master/files/CV-yqsun.pdf)
 
 ---
 <!--
