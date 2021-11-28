@@ -4,7 +4,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from: http://YunqingSun0-0.github.io/files/CV-yqsun.pdf
+redirect_from: 
   - /resume
 ---
 
