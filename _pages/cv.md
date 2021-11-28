@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: [CV](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
 
 author_profile: true
-url: 'http://YunqingSun0-0.github.io/files/CV-yqsun.pdf'
 
 ---
 <!--
