@@ -5,8 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from: https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/files/CV-yqsun.pdf
 [CV](https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/files/CV-yqsun.pdf)
+
 ---
 <!--
+https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/tree/master/files
 {% include base_path %}
 
     #Education
