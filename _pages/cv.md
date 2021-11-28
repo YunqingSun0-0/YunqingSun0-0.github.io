@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "CV"
-collection: files
-permalink: /files/CV-yqsun.pdf
+
 author_profile: true
-paperurl: 'http://YunqingSun0-0.github.io/files/CV-yqsun.pdf'
+url: 'http://YunqingSun0-0.github.io/files/CV-yqsun.pdf'
 
 ---
 <!--
