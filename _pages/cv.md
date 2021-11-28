@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: 'https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/tree/master/files/CV-yqsun.pdf'
 [CV](https://github.com/YunqingSun0-0/YunqingSun0-0.github.io/tree/master/files/CV-yqsun.pdf)
 
 ---
