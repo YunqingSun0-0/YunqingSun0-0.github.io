@@ -1,10 +1,14 @@
+
 ---
 layout: archive
-title: [CV](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
-
+title: "CV"
+permalink: /cv/
 author_profile: true
-
+redirect_from: http://YunqingSun0-0.github.io/files/CV-yqsun.pdf
+  - /resume
 ---
+
+{% include base_path %}
 [Download here](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
 <!--
 
