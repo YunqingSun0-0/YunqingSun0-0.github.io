@@ -5,7 +5,7 @@ title: [CV](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
 author_profile: true
 
 ---
-[CV](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
+[Download here](http://YunqingSun0-0.github.io/files/CV-yqsun.pdf)
 <!--
 
 {% include base_path %}
