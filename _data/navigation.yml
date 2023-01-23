@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /cv/
+    url: https://yunqingsun0-0.github.io/files/CV-yqsun.pdf
 
   #- title: "Talks"
   #  url: /talks/    
