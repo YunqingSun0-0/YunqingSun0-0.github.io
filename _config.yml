@@ -8,7 +8,7 @@
 locale                   : "en-US"
 title                    : "Yunqing Sun"
 title_separator          : "-"
-name                     : &name "Yunqing Sun"
+name                     : &name "Yunqing Sun 孙韵清"
 description              : &description "Ph.D. student at Northwestern University"
 url                      : https://YunqingSun0-0.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
