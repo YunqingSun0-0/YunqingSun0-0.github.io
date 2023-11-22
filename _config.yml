@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Yunqing Sun"
 title_separator          : "-"
 name                     : &name "Yunqing Sun 孙韵清"
-description              : &description "Ph.D. student at Northwestern University"
+description              : &description "Ph.D. Candidate at Northwestern University"
 url                      : https://YunqingSun0-0.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YunqingSun0-0/YunqingSun0-0.github.io"
@@ -81,13 +81,13 @@ analytics:
 author:
   name             : "Yunqing Sun"
   avatar           : "yunqing-sun.jpg"
-  bio              : "Ph.D. student at Northwestern University"
+  bio              : "Ph.D. Candidate at Northwestern University"
   location         : "Evanston, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gzrGcYIAAAAJ&hl=zh-CN"
   email            : "yunqing.sun@northwestern.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yunqing-Sun-2"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
