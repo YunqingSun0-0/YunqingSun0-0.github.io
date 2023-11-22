@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Papers in Cryptography:
+Paper in Cryptography:
 ---
 1. Large-Scale Private Set Intersection in the Client-Server Setting, on submission.
 
