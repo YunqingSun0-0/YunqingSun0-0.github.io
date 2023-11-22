@@ -27,7 +27,6 @@ Yunqing Sun, Jin Cao, Maode Ma, Hui Li, Ben Niu, and Fenghua Li\\
 In International Conference on Computing, Networking and Communications (ICNC) 2019
 5. BE-RAN: Blockchain-enabled Open RAN with Decentralized Identity Management and Privacy-Preserving Communication [[pdf]](https://arxiv.org/pdf/2101.10856.pdf)\\
 Hao Xu, Lei Zhang, Yunqing Sun, and Chih-Lin I
-6. An Anonymous and Secure Data Transmission Mechanism with Trajectory Tracking for D2D Relay Communication in 3GPP 5G networks\\
-Yunqing Sun, Jin Cao, Xiongpeng Ren, Canhui Tang, Ben Niu, Yinghui Zhang, Hui Li\\
-On submission
+6. An Anonymous and Secure Data Transmission Mechanism with Trajectory Tracking for D2D Relay Communication in 3GPP 5G networks, on submission\\
+Yunqing Sun, Jin Cao, Xiongpeng Ren, Canhui Tang, Ben Niu, Yinghui Zhang, Hui Li
 
