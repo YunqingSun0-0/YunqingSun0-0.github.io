@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year computer science Ph.D. student at [Northwestern University](https://www.northwestern.edu) advised by Prof. [Xiao Wang](https://wangxiao1254.github.io). My research interests mainly focus on MPC in practice. I am working on private set intersection (PSI).
+I received my Ph.D. in Computer Science from Northwestern University, where I was fortunate to be advised by Prof. [Xiao Wang](https://wangxiao1254.github.io). My research focuses on practical secure multi-party computation, with particular interests in private set intersection, privacy-preserving computation, and efficient cryptographic protocols for real-world applications.
+
 
