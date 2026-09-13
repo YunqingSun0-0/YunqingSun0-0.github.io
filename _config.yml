@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Yunqing Sun"
 title_separator          : "-"
 name                     : &name "Yunqing Sun 孙韵清"
-description              : &description "Ph.D. Candidate at Northwestern University"
+description              : &description "Computer Science Ph.D. | Applied Cryptography, Privacy & Security | Secure Systems, Authentication & Network Security"
 url                      : https://YunqingSun0-0.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YunqingSun0-0/YunqingSun0-0.github.io"
